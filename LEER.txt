@@ -1,0 +1,1 @@
+Ejecutar el comando "npm install" en la consola desde la ruta de la carpeta del proyecto para poder ejecutar correctamente el mismo. 
